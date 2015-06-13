@@ -1,3 +1,11 @@
+/********************************************************************************
+ *  Compilation:  javac SpellChecker.java
+ *  Execution:    java SpellChecker 
+ *
+ *  Author: Muhammad Suleman 
+ *  
+ *********************************************************************************/
+
 package spellchecker;
 
 import java.io.*;
